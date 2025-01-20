@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="charcoal">#FF465362</color>
+    <color name="cambridge_blue">#FF82A3A1</color>
+    <color name="olivine">#FF6ea758</color>
+    <color name="oxford_blue">#FF043a7c</color>
+    <color name="light_blue">#FFccddff</color>
+    <color name="tea_green">#FFC0DFA1</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">myLocationsApp</string>
+    <string name="welcome_message">Welcome to your travel app</string>
+    <string name="assistance">Tap on the image icon to add an image</string>
+    <string name="button_add_message">Add new location!</string>
+    <string name="button_saved_message">View previous location!</string>
+    <string name="enter_latitude">Enter Latitude</string>
+    <string name="enter_longitude">Enter Longitude</string>
+    <string name="enter_country">country</string>
+    <string name="date_format">DD/MM/YYYY</string>
+    <string name="enter_rating">rating/5</string>
+    <string name="enter_name">name</string>
+    <string name="saved_visits_title">All Saved Visits</string>
+    <string name="delete_item">Delete item</string>
+    <string name="home_page">home page</string>
+    <string name="add_item">add item</string>
+</resources>
